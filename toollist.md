@@ -13,6 +13,8 @@
 
 [Recogito](https://recogito.pelagios.org)
 
+[The Jubilees Palimpsest Project](http://jubilees.stmarytx.edu/)
+
 #### Space
 #### Time
 #### People
